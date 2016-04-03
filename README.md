@@ -7,3 +7,6 @@ http://www.meetup.com/QualiTechTalks/events/229315979
 
 Presentation:
 https://www.slideshare.net/secret/dUwc8Ug1YFEdGJ
+
+Example for 'Home-made' PowerShell module can be found here:
+https://github.com/QualiSystems/Sandbox-API-PowerShell-Wrapper
