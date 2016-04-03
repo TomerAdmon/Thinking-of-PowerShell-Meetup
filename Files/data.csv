@@ -1,0 +1,4 @@
+#TYPE System.Xml.XmlElement
+"name","cpu","memory"
+"WIN8","4","6"
+"LOCALHOST","8","16"

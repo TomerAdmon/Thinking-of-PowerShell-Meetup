@@ -1,0 +1,4 @@
+<computers>
+ <computer name="WIN8" cpu="4" memory="6"/>
+ <computer name="LOCALHOST" cpu="8" memory="16"/>
+</computers>
